@@ -1,11 +1,13 @@
 # Smartphone Sales Analytics
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://smartphone-sales-analytics.streamlit.app)
+
 An end-to-end data-analyst project on FY2025 smartphone sales in the Indian market.
 A single CSV feeds a validating pandas pipeline, a DuckDB/SQL query layer, a Jupyter
 EDA notebook, and an interactive Streamlit dashboard that ranks the top-performing
 products across the Budget, Mid-Range, Premium, and Flagship price segments.
 
-**🔗 Live demo:** _deployed on Streamlit Community Cloud — link added below once live._
+**🔗 Live demo:** https://smartphone-sales-analytics.streamlit.app
 
 **Built with:** Python · pandas · DuckDB (SQL) · Plotly · Streamlit · Jupyter
 
