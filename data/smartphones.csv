@@ -1,0 +1,61 @@
+id,brand,model,price_inr,units_sold,rating,q1,q2,q3,q4,url,display,processor,camera,battery,ram,storage
+1,Samsung,Galaxy M14 5G,11999,820000,4.2,180,210,220,210,https://www.samsung.com/in/smartphones/galaxy-m/galaxy-m14-5g/,"6.6"" FHD+ 90Hz",Exynos 1330,50MP + 2MP,6000mAh,4/6GB,64/128GB
+2,Samsung,Galaxy A05s,9999,650000,3.9,140,160,180,170,https://www.samsung.com/in/smartphones/galaxy-a/galaxy-a05s/,"6.7"" HD+ 60Hz",Snapdragon 680,50MP + 2MP + 2MP,5000mAh,4/6GB,64/128GB
+3,Xiaomi,Redmi 13C,8999,1150000,4.1,250,290,310,300,https://www.mi.com/in/redmi-13c/,"6.74"" HD+ 90Hz",Helio G85,50MP + 2MP,5000mAh,4/6GB,128GB
+4,Xiaomi,Redmi Note 13,13999,1420000,4.4,300,350,390,380,https://www.mi.com/in/redmi-note-13/,"6.67"" FHD+ 120Hz",Dimensity 6080,108MP + 2MP,5000mAh,6/8GB,128/256GB
+5,Realme,Realme C67,8499,780000,4,170,200,210,200,https://www.realme.com/in/realme-c67/,"6.72"" HD+ 90Hz",Snapdragon 685,108MP + 2MP,5000mAh,6/8GB,128/256GB
+6,Realme,Realme Narzo 70x,11999,690000,4.1,150,170,190,180,https://www.realme.com/in/realme-narzo-70x/,"6.72"" FHD+ 120Hz",Dimensity 6100+,50MP + 2MP,5000mAh,6GB,128GB
+7,Vivo,Vivo Y28 5G,13999,560000,4,120,140,150,150,https://www.vivo.com/in/products/param/y28-5g/,"6.56"" HD+ 90Hz",Dimensity 6300,50MP + 2MP,5000mAh,4/6GB,128GB
+8,Vivo,Vivo T3x 5G,12499,480000,4.1,100,120,130,130,https://www.vivo.com/in/products/param/t3x-5g/,"6.56"" FHD+ 90Hz",Dimensity 6300,50MP + 2MP,5000mAh,4/6GB,128GB
+9,Motorola,Moto G14,8999,410000,4,90,100,110,110,https://www.motorola.in/smartphones-moto-g14/,"6.5"" FHD+ 60Hz",Helio G85,50MP + 2MP,5000mAh,4/8GB,128GB
+10,POCO,POCO C65,6999,920000,3.8,200,230,250,240,https://www.poco.in/poco-c65/,"6.74"" HD+ 90Hz",Helio G85,50MP + 2MP,5000mAh,4/6GB,64/128GB
+11,POCO,POCO M6 5G,9499,850000,4,190,210,230,220,https://www.poco.in/poco-m6-5g/,"6.74"" FHD+ 90Hz",Snapdragon 4 Gen 2,50MP + 2MP,5000mAh,4/6GB,128GB
+12,iQOO,iQOO Z9x,11999,520000,4.2,100,130,150,140,https://www.iqoo.com/in/products/param/iqoo-z9x/,"6.72"" FHD+ 120Hz",Snapdragon 6 Gen 1,64MP + 2MP,6000mAh,4/6GB,128GB
+13,Samsung,Galaxy F15 5G,12999,580000,4.1,130,140,160,150,https://www.samsung.com/in/smartphones/galaxy-f/galaxy-f15-5g/,"6.5"" FHD+ 90Hz",Dimensity 6100+,50MP + 2MP,6000mAh,4/6GB,128GB
+14,Realme,Realme 12e,10999,470000,4,100,120,130,120,https://www.realme.com/in/realme-12e/,"6.72"" FHD+ 120Hz",Dimensity 6100+,50MP + 2MP,5000mAh,6/8GB,128GB
+15,Samsung,Galaxy A35 5G,22999,710000,4.3,150,180,200,180,https://www.samsung.com/in/smartphones/galaxy-a/galaxy-a35-5g/,"6.6"" FHD+ 120Hz",Exynos 1380,50MP + 8MP + 5MP,5000mAh,6/8GB,128/256GB
+16,Samsung,Galaxy M55 5G,26999,420000,4.2,90,100,120,110,https://www.samsung.com/in/smartphones/galaxy-m/galaxy-m55-5g/,"6.7"" FHD+ 120Hz",Snapdragon 7 Gen 1,50MP + 8MP + 2MP,5000mAh,8/12GB,128/256GB
+17,Xiaomi,Redmi Note 13 Pro,23999,980000,4.5,200,250,280,250,https://www.mi.com/in/redmi-note-13-pro/,"6.67"" FHD+ 120Hz",Dimensity 7200,200MP + 8MP + 2MP,5100mAh,8/12GB,128/256GB
+18,Xiaomi,Xiaomi 14 Lite,29999,380000,4.3,80,90,110,100,https://www.mi.com/in/xiaomi-14-lite/,"6.55"" FHD+ 120Hz",Dimensity 7300,50MP + 8MP + 2MP,4500mAh,8/12GB,128/256GB
+19,Realme,Realme 12 Pro,24999,530000,4.2,110,130,150,140,https://www.realme.com/in/realme-12-pro/,"6.7"" FHD+ 120Hz",Snapdragon 7s Gen 2,50MP + 8MP + 2MP,5000mAh,8/12GB,128/256GB
+20,Vivo,Vivo V40e,24999,440000,4.1,100,110,120,110,https://www.vivo.com/in/products/param/v40e/,"6.77"" FHD+ 120Hz",Dimensity 7300,50MP + 8MP,5500mAh,8GB,128/256GB
+21,Vivo,Vivo T3 5G,19999,680000,4.3,140,170,190,180,https://www.vivo.com/in/products/param/t3-5g/,"6.67"" FHD+ 120Hz",Dimensity 7200,50MP + 2MP,5000mAh,8GB,128/256GB
+22,OPPO,OPPO Reno 12,27999,350000,4.2,70,80,100,100,https://www.oppo.com/in/smartphones/series-reno/reno12/,"6.7"" FHD+ 120Hz",Dimensity 7300,50MP + 8MP + 2MP,5000mAh,8/12GB,128/256GB
+23,OnePlus,OnePlus Nord CE4,24999,750000,4.4,160,190,210,190,https://www.oneplus.in/nord-ce4/,"6.67"" FHD+ 120Hz",Snapdragon 7 Gen 3,50MP + 8MP,5500mAh,8GB,128/256GB
+24,Motorola,Moto Edge 50 Neo,22999,310000,4.1,60,80,90,80,https://www.motorola.in/smartphones-motorola-edge-50-neo/,"6.55"" pOLED 120Hz",Dimensity 7300,50MP + 13MP,4310mAh,8/12GB,256GB
+25,Nothing,Nothing Phone (2a),23999,620000,4.5,120,160,180,160,https://nothing.tech/products/phone-2a/,"6.72"" AMOLED 120Hz",Dimensity 7200 Pro,50MP + 2MP,5000mAh,8/12GB,128/256GB
+26,iQOO,iQOO Neo 9 Pro,29999,490000,4.4,100,120,140,130,https://www.iqoo.com/in/products/param/iqoo-neo-9-pro/,"6.78"" AMOLED 144Hz",Snapdragon 8 Gen 2,50MP + 8MP,5160mAh,8/12GB,128/256GB
+27,POCO,POCO F6,25999,580000,4.3,120,150,160,150,https://www.poco.in/poco-f6/,"6.67"" AMOLED 120Hz",Snapdragon 8s Gen 3,50MP + 8MP,5000mAh,8/12GB,256/512GB
+28,Google,Pixel 8a,27999,340000,4.4,60,80,100,100,https://store.google.com/in/product/pixel_8a/,"6.1"" OLED 120Hz",Tensor G3,64MP + 13MP,4492mAh,8GB,128/256GB
+29,Samsung,Galaxy A55 5G,32999,480000,4.3,100,120,140,120,https://www.samsung.com/in/smartphones/galaxy-a/galaxy-a55-5g/,"6.6"" AMOLED 120Hz",Exynos 1480,50MP + 12MP + 5MP,5000mAh,8/12GB,128/256GB
+30,Samsung,Galaxy S24 FE,49999,390000,4.5,80,100,110,100,https://www.samsung.com/in/smartphones/galaxy-s/galaxy-s24-fe/,"6.7"" AMOLED 120Hz",Exynos 2400e,50MP + 12MP + 8MP,4700mAh,8GB,128/256GB
+31,Xiaomi,Redmi Note 13 Pro+,31999,620000,4.4,130,160,170,160,https://www.mi.com/in/redmi-note-13-pro-plus/,"6.67"" AMOLED 120Hz",Dimensity 7200,200MP + 8MP + 2MP,5000mAh,8/12GB,256/512GB
+32,Vivo,Vivo V40 5G,34999,360000,4.2,70,90,100,100,https://www.vivo.com/in/products/param/v40-5g/,"6.78"" AMOLED 120Hz",Snapdragon 7 Gen 3,50MP + 50MP,5500mAh,8/12GB,128/256GB
+33,OPPO,OPPO Reno 12 Pro,36999,290000,4.3,60,70,80,80,https://www.oppo.com/in/smartphones/series-reno/reno12-pro/,"6.7"" AMOLED 120Hz",Dimensity 8200,50MP + 8MP + 32MP,5000mAh,12GB,256GB
+34,OnePlus,OnePlus Nord 4,29999,710000,4.5,150,180,200,180,https://www.oneplus.in/nord-4/,"6.74"" AMOLED 120Hz",Snapdragon 7+ Gen 3,50MP + 8MP,5500mAh,8/12GB,128/256GB
+35,OnePlus,OnePlus 12R,42999,520000,4.5,110,130,150,130,https://www.oneplus.in/12r/,"6.78"" AMOLED 120Hz",Snapdragon 8 Gen 2,50MP + 8MP + 2MP,5500mAh,8/16GB,128/256GB
+36,Nothing,Nothing Phone (2),39999,410000,4.4,80,100,120,110,https://nothing.tech/products/phone-2/,"6.7"" OLED 120Hz",Snapdragon 8+ Gen 1,50MP + 50MP,4700mAh,8/12GB,128/256GB
+37,Motorola,Moto Edge 50 Pro,35999,280000,4.2,50,70,80,80,https://www.motorola.in/smartphones-motorola-edge-50-pro/,"6.7"" pOLED 144Hz",Snapdragon 7 Gen 3,50MP + 13MP,4500mAh,12GB,256GB
+38,Google,Pixel 8,45999,370000,4.5,70,90,110,100,https://store.google.com/in/product/pixel_8/,"6.2"" OLED 120Hz",Tensor G3,50MP + 12MP,4575mAh,8GB,128/256GB
+39,iQOO,iQOO 12,42999,340000,4.3,70,80,100,90,https://www.iqoo.com/in/products/param/iqoo-12/,"6.78"" AMOLED 144Hz",Snapdragon 8 Gen 3,50MP + 13MP,5000mAh,12/16GB,256/512GB
+40,Realme,Realme GT 6,33999,380000,4.3,80,90,110,100,https://www.realme.com/in/realme-gt-6/,"6.78"" AMOLED 120Hz",Snapdragon 8s Gen 3,50MP + 8MP + 2MP,5500mAh,8/12GB,128/256GB
+41,POCO,POCO F6 Pro,34999,410000,4.4,80,100,120,110,https://www.poco.in/poco-f6-pro/,"6.67"" AMOLED 120Hz",Snapdragon 8 Gen 2,50MP + 8MP + 2MP,5000mAh,12/16GB,256/512GB
+42,Samsung,Galaxy S24,64999,480000,4.5,100,120,140,120,https://www.samsung.com/in/smartphones/galaxy-s/galaxy-s24/,"6.2"" AMOLED 120Hz",Snapdragon 8 Gen 3,50MP + 12MP + 10MP,4000mAh,8/12GB,128/256GB
+43,Samsung,Galaxy S24 Ultra,129999,620000,4.7,130,160,180,150,https://www.samsung.com/in/smartphones/galaxy-s/galaxy-s24-ultra/,"6.8"" AMOLED 120Hz",Snapdragon 8 Gen 3,200MP+12MP+10MP+50MP,5000mAh,12GB,256/512GB/1TB
+44,Samsung,Galaxy S24+,89999,310000,4.5,60,80,90,80,https://www.samsung.com/in/smartphones/galaxy-s/galaxy-s24-plus/,"6.7"" AMOLED 120Hz",Snapdragon 8 Gen 3,50MP + 12MP + 10MP,4900mAh,12GB,256/512GB
+45,Samsung,Galaxy Z Flip 6,109999,210000,4.4,40,50,60,60,https://www.samsung.com/in/smartphones/galaxy-z/galaxy-z-flip6/,"6.7"" AMOLED 120Hz",Snapdragon 8 Gen 3,50MP + 12MP,4000mAh,12GB,256/512GB
+46,Samsung,Galaxy Z Fold 6,164999,150000,4.5,30,40,40,40,https://www.samsung.com/in/smartphones/galaxy-z/galaxy-z-fold6/,"7.6"" AMOLED 120Hz",Snapdragon 8 Gen 3,50MP + 12MP + 10MP,4400mAh,12GB,256/512GB/1TB
+47,Apple,iPhone 15,69900,1100000,4.6,220,280,310,290,https://www.apple.com/in/iphone-15/,"6.1"" OLED 60Hz",A16 Bionic,48MP + 12MP,3349mAh,6GB,128/256/512GB
+48,Apple,iPhone 15 Plus,79900,580000,4.5,120,150,160,150,https://www.apple.com/in/iphone-15-plus/,"6.7"" OLED 60Hz",A16 Bionic,48MP + 12MP,4383mAh,6GB,128/256/512GB
+49,Apple,iPhone 15 Pro,129900,870000,4.7,180,220,250,220,https://www.apple.com/in/iphone-15-pro/,"6.1"" OLED 120Hz",A17 Pro,48MP + 12MP + 12MP,3274mAh,8GB,128/256/512GB/1TB
+50,Apple,iPhone 15 Pro Max,159900,720000,4.8,150,180,210,180,https://www.apple.com/in/iphone-15-pro-max/,"6.7"" OLED 120Hz",A17 Pro,48MP + 12MP + 12MP,4422mAh,8GB,256/512GB/1TB
+51,OnePlus,OnePlus 12,64999,540000,4.6,110,140,160,130,https://www.oneplus.in/12/,"6.7"" AMOLED 120Hz",Snapdragon 8 Gen 3,50MP + 48MP + 64MP,5400mAh,12/16GB,256/512GB
+52,OnePlus,OnePlus Open,139999,180000,4.5,30,40,60,50,https://www.oneplus.in/open/,"7.82"" AMOLED 120Hz",Snapdragon 8 Gen 2,48MP + 64MP + 48MP,4805mAh,16GB,256/512GB
+53,Xiaomi,Xiaomi 14,69999,350000,4.4,60,80,110,100,https://www.mi.com/in/xiaomi-14/,"6.36"" AMOLED 120Hz",Snapdragon 8 Gen 3,50MP + 50MP + 50MP,4610mAh,12GB,256/512GB
+54,Xiaomi,Xiaomi 14 Ultra,99999,190000,4.5,30,50,60,50,https://www.mi.com/in/xiaomi-14-ultra/,"6.73"" AMOLED 120Hz",Snapdragon 8 Gen 3,50MP+50MP+50MP+12MP,5000mAh,16GB,512GB
+55,Google,Pixel 9,79999,310000,4.5,50,80,100,80,https://store.google.com/in/product/pixel_9/,"6.3"" OLED 120Hz",Tensor G4,50MP + 48MP,4700mAh,12GB,128/256GB
+56,Google,Pixel 9 Pro,109999,240000,4.6,40,60,80,60,https://store.google.com/in/product/pixel_9_pro/,"6.3"" OLED 120Hz",Tensor G4,50MP + 48MP + 48MP,4700mAh,16GB,128/256/512GB/1TB
+57,Vivo,Vivo X200 Pro,89999,280000,4.5,50,70,90,70,https://www.vivo.com/in/products/param/x200-pro/,"6.78"" AMOLED 120Hz",Dimensity 9400,200MP+50MP+50MP,5800mAh,12/16GB,256/512GB
+58,OPPO,OPPO Find X7 Ultra,84999,200000,4.4,30,50,60,60,https://www.oppo.com/in/smartphones/series-find-x/find-x7-ultra/,"6.82"" AMOLED 120Hz",Snapdragon 8 Gen 3,50MP+50MP+64MP,5000mAh,16GB,256/512GB
+59,Motorola,Moto Razr 50 Ultra,99999,120000,4.3,20,30,40,30,https://www.motorola.in/smartphones-motorola-razr-50-ultra/,"6.9"" pOLED 165Hz",Snapdragon 8s Gen 3,50MP + 13MP,4000mAh,12GB,256/512GB
+60,Nothing,Nothing Phone (3),54999,320000,4.5,60,80,100,80,https://nothing.tech/products/phone-3/,"6.5"" OLED 120Hz",Snapdragon 8s Gen 3,50MP + 50MP,4800mAh,8/12GB,128/256GB
