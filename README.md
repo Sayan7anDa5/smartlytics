@@ -1,7 +1,13 @@
 # Smartphone Sales Analytics
 
-Data-analyst project exploring FY2025 smartphone sales in the Indian market across
-brands and price segments — built with pandas, DuckDB (SQL), Jupyter, and Streamlit.
+An end-to-end data-analyst project on FY2025 smartphone sales in the Indian market.
+A single CSV feeds a validating pandas pipeline, a DuckDB/SQL query layer, a Jupyter
+EDA notebook, and an interactive Streamlit dashboard that ranks the top-performing
+products across the Budget, Mid-Range, Premium, and Flagship price segments.
+
+**🔗 Live demo:** _deployed on Streamlit Community Cloud — link added below once live._
+
+**Built with:** Python · pandas · DuckDB (SQL) · Plotly · Streamlit · Jupyter
 
 ## Dataset
 
@@ -12,15 +18,22 @@ Flagship (>₹50K).
 ## Setup
 
     python3 -m venv .venv && . .venv/bin/activate
-    pip install -r requirements.txt
+    pip install -r requirements.txt          # runtime (dashboard + SQL)
+    pip install -r requirements-dev.txt      # adds tests + notebook tooling
 
 ## Usage
 
-- Tests: `pytest`
+- Dashboard: `streamlit run app.py`
 - Build the DuckDB database: `python db/build_db.py` (writes `db/smartphones.db`)
 - Run SQL: `duckdb db/smartphones.db < sql/queries.sql` (requires the DuckDB CLI)
-- EDA notebook: `jupyter notebook notebooks/analysis.ipynb`
-- Dashboard: `streamlit run app.py`
+- EDA notebook: `jupyter notebook notebooks/analysis.ipynb` (needs requirements-dev.txt)
+- Tests: `pytest` (needs requirements-dev.txt)
+
+## Deployment
+
+The dashboard is deployed on [Streamlit Community Cloud](https://streamlit.io/cloud):
+push to `master`, then point a new app at `app.py` — Cloud installs `requirements.txt`
+and serves it. Every push to `master` redeploys automatically.
 
 ## Layout
 

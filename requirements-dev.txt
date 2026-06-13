@@ -1,0 +1,7 @@
+# Development dependencies: tests and the EDA notebook.
+# Installs everything in requirements.txt plus the notebook/test tooling.
+-r requirements.txt
+pytest==8.3.2
+jupyter==1.0.0
+ipykernel==7.3.0
+matplotlib==3.11.0
